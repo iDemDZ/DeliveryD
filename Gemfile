@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcryt', '~> 3.1.7'
 gem 'devise'
 gem 'clearance'
+gem 'sorcery'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
